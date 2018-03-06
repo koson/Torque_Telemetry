@@ -51,7 +51,7 @@ Our method can extend for many strain-gauges that measure torque or force or ano
 
 In one of our tests, we measure 4 channel synchronized torque with 4 channel vibration. This pictures show mounting and a sample data of torque.
 
-![Motor1](.\img\img1.jpg)
+![Motor1](./img/img1.jpg)
 
 ![mounting](./img/img2.jpg)
 
@@ -61,20 +61,10 @@ the picture below shows one sample of start up of motors.
 
 sample video of torque measurement:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eKOW8vPVlRw/0.jpg)](https://www.youtube.com/watch?v=eKOW8vPVlRw)
+[![video of torque telemetry](https://img.youtube.com/vi/eKOW8vPVlRw/0.jpg)](https://www.youtube.com/watch?v=eKOW8vPVlRw)
 
 
 
-for any details contact with <u>mahdiks AT gmail.com</u>
-
-   
-
- 
-
- 
-
- 
-
- 
+:white_check_mark: For any details contact with <u>mahdiks AT gmail.com</u>
 
  
