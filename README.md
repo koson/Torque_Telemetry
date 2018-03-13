@@ -47,6 +47,12 @@ Our method works for up to 16 channel synchronous torque with 1 kHz bandwidth. (
 
 Our method can extend for many strain-gauges that measure torque or force or another sensor.One of my goal for this project is humanoid robot where the robot can measure all the muscle force and give it the opportunity to balance these forces. This helps the robot to sense any forces 
 
+
+### Test setup
+:movie_camera: sample video of torque measurement:
+
+[![video of torque telemetry](https://img.youtube.com/vi/eKOW8vPVlRw/0.jpg)](https://www.youtube.com/watch?v=eKOW8vPVlRw)
+
 ### Test
 
 In one of our tests, we measure 4 channel synchronized torque with 4 channel vibration. This pictures show mounting and a sample data of torque.
@@ -59,9 +65,7 @@ the picture below shows one sample of start up of motors.
 
 ![Sample result of 4 torque](./img/img3.jpg)
 
-sample video of torque measurement:
 
-[![video of torque telemetry](https://img.youtube.com/vi/eKOW8vPVlRw/0.jpg)](https://www.youtube.com/watch?v=eKOW8vPVlRw)
 
 
 
